@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  console.log('jsdeliver fonctionne')
+  console.log('jsdeliver fonctionne !')
 
   // --- Helpers
   const stateAbbrMap = {
