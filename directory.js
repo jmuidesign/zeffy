@@ -1,4 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
+  console.log('jsdeliver fonctionne')
+
   // --- Helpers
   const stateAbbrMap = {
     Alabama: 'AL',
@@ -67,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- Prefilled rows
   const prefilledRows = {
     'hits-breast-cancer': 'breast cancer',
-    'hits-back-to-school': 'back to school',
+    //'hits-back-to-school': 'back to school',
     'hits-palestine': 'palestine',
     'hits-mens-health': 'mens health',
   }
